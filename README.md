@@ -717,6 +717,10 @@ that makes it easy to expand ~ (tilda) in filesystem paths (which is something
 
 *   [VueJS 2, video playlist by The Net Ninja](https://www.youtube.com/playlist?list=PL4cUxeGkcC9gQcYgjhBoeQH7wiAyZNrYa)
 *   [Tips for Unit Testing Vue Components with Jest, post by Achhunna Mali](https://medium.com/swlh/tips-on-unit-testing-vue-components-with-jest-e68ff6a28bb5)
+    * I believe the post is worth reading, to understand how one can take a Vue component and write tests against it. However, I do also believe that one
+      should not (when possible) couple their code too much to any given framework. Hence, try to keep the minimum amount of logic that you actually need to 
+      test inside the component, and extract as much as you can outside of it. It is much easier to test your own code the layout of which you can always
+      change, rather than the layout that is imposed on you by Vue's authors.
 
 #### Make Prettier, VueJs and TypeScript Play Nice with ESLint
 
