@@ -716,6 +716,7 @@ that makes it easy to expand ~ (tilda) in filesystem paths (which is something
 ### VueJS 2
 
 *   [VueJS 2, video playlist by The Net Ninja](https://www.youtube.com/playlist?list=PL4cUxeGkcC9gQcYgjhBoeQH7wiAyZNrYa)
+*   [Tips for Unit Testing Vue Components with Jest, post by Achhunna Mali](https://medium.com/swlh/tips-on-unit-testing-vue-components-with-jest-e68ff6a28bb5)
 
 #### Make Prettier, VueJs and TypeScript Play Nice with ESLint
 
