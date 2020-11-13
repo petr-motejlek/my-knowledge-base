@@ -1856,6 +1856,7 @@ spun up using a Docker image.
     see what version of NodeJS supports what standard.
 *   [Typing Destructured Object Parameters in TypeScript, article by
     Marius Schulz](https://mariusschulz.com/blog/typing-destructured-object-parameters-in-typescript)
+*   [Advanced TypeScript Types with Examples, article by Elena Sufieva](https://levelup.gitconnected.com/advanced-typescript-types-with-examples-1d144e4eda9e)
 
 ## gulpfile.js
 
