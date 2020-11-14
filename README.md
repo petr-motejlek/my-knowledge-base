@@ -1306,6 +1306,7 @@ the Python programming language.
     through many topics: functional programming; mutability's relationship to
     OO; isolated unit testing with and without test doubles; and concurrency,
     to name some bar.
+*   [Why Isn't Functional Programming the Norm?, lecture by Richard Feldman at Clojure 2019](https://www.youtube.com/watch?v=QyJZzq0v7Z4)
 
 # Quotes (That Come In Handy)
 
