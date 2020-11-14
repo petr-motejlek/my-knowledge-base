@@ -239,6 +239,10 @@ While similar tools such as [conky](https://github.com/brndnmtthws/conky) or
 [bitbar](https://getbitbar.com/plugins/Network) shows it in the macOS
 menubar.
 
+# blazor
+
+* [Blazor Web Apps -- Goodbye JavaScript! I'm in love with C#, video tutorial by William Liebenberg](https://www.youtube.com/watch?v=Oeh2IJw7Zig&t=2s)
+
 # bpmn
 
 *   [Quick introductory video series on BPMN](https://www.youtube.com/playlist?list=PLUjR77Zdn0LPcCRyG8PTz2lfmjseESoLa)
