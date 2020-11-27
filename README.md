@@ -592,6 +592,7 @@ Istio makes it easy to create a network of deployed services with load balancing
     *   First 3.5 hours of a 12-hour-long course.
 *   [JavaScript: Understanding the Weird Parts, video course by Tony Alicea](https://www.udemy.com/course/understand-javascript/)
     *   An entire course on Udemy.
+*   [Async JS Crash Course - Callbacks, Promises, Async, Await; tutorial by Traversy Media on YouTube](https://www.youtube.com/watch?v=PoRJizFvM7s)
 
 ## Testing
 
