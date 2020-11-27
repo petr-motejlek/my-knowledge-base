@@ -384,6 +384,10 @@ working on the same project across various editors and IDEs."
 
 [Prettier can honor whatever settings are in .editorconfig](https://prettier.io/docs/en/api.html#prettierresolveconfigfilepath--options)
 
+# elm
+
+* [Next-Generation Programming: Rust & Elm, lecture by Richard Feldman at GOTO 2020 on YouTube](https://www.youtube.com/watch?v=ukVqQGbxM9A&feature=youtu.be)
+
 # esxi
 
 *   ESXI client console for Windows download [https://kb.vmware.com/selfservice/microsites/search.do?language=en_US&cmd=displayKC&externalId=2089791](https://kb.vmware.com/selfservice/microsites/search.do?language=en_US&cmd=displayKC&externalId=2089791)
@@ -1493,6 +1497,7 @@ used as a message broker.
 # rust
 
 *   [Rust, Crash Course, video by Traversy Media](https://www.youtube.com/watch?v=zF34dRivLOw)
+*   [Next-Generation Programming: Rust & Elm, lecture by Richard Feldman at GOTO 2020 on YouTube](https://www.youtube.com/watch?v=ukVqQGbxM9A&feature=youtu.be)
 
 # salt
 
