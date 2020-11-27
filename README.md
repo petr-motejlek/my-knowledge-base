@@ -1454,6 +1454,7 @@ the Python programming language.
     (ie. any piece of software reflects the organizational structure that
     produced it) – Conway's Law
 *   ["Let's (over) simplify the jobs within Scrum to their bare minimum description: Product Owner has a focus to build the right things; Team has a focus to build the things right; Scrum Master helps them build the right things right", by Jürgen de Smet](https://www.linkedin.com/posts/jurgendesmet_colearning-scrum-productowner-activity-6735872299896987648-j-pq/)
+*   "Shipping first time code is like going into debt. A little debt speeds development so long as it is paid back promptly with a rewrite. The danger occurs when the debt is not repaid. Every minute spent on not-quite-right code counts as interest on that debt.", by Ward Cunningham
 
 # redis
 
