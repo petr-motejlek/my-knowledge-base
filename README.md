@@ -437,6 +437,13 @@ is yet another library/toolkit to help you create great APIs on top of flask.
 *   [Git Quick Start, video course on LinuxAcademy](https://linuxacademy.com/cp/modules/view/id/289)
 *   [Advanced Git by David Baumgold](https://www.youtube.com/watch?v=4EOZvow1mk4)
 
+## making files "hidden" from Git's change detection
+
+Should you ever need to "hide" changes in certain files from git's automated change detection, you can
+mark those files using `git update-index --skip-worktree ...`, which will make Git not try to detect
+any changes in them. When checking out or merging a different branch into the working tree, it will,
+however, properly realize that the file has changed and prevent you from accidentally overwriting it.
+
 ## How to work with LF-only line endings on Windows
 
 ```bash
