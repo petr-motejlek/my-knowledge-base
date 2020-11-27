@@ -1864,6 +1864,10 @@ spun up using a Docker image.
     Marius Schulz](https://mariusschulz.com/blog/typing-destructured-object-parameters-in-typescript)
 *   [Advanced TypeScript Types with Examples, article by Elena Sufieva](https://levelup.gitconnected.com/advanced-typescript-types-with-examples-1d144e4eda9e)
 
+## jest & typescript
+
+* [ts-jest](https://kulshekhar.github.io/ts-jest/user/config/)
+
 ## gulpfile.js
 
 This is a boiler-plate-free example `gulpfile.js` suitable for use with NodeJS.
