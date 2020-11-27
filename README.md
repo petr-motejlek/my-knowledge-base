@@ -728,6 +728,11 @@ that makes it easy to expand ~ (tilda) in filesystem paths (which is something
       test inside the component, and extract as much as you can outside of it. It is much easier to test your own code the layout of which you can always
       change, rather than the layout that is imposed on you by Vue's authors.
 
+### VueJS 3
+
+*   [Vue 3: What's New? What Changed?; tutorial by Academind on YouTube](https://www.youtube.com/watch?v=A5cVyjrKx_Q&t=1s)
+*   [Vue 3 Composition API Full Introduction; tutorial by Academind on YouTube](https://www.youtube.com/watch?v=bwItFdPt-6M)
+
 #### Make Prettier, VueJs and TypeScript Play Nice with ESLint
 
 ##### Prerequisites
