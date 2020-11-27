@@ -1872,10 +1872,6 @@ spun up using a Docker image.
     Marius Schulz](https://mariusschulz.com/blog/typing-destructured-object-parameters-in-typescript)
 *   [Advanced TypeScript Types with Examples, article by Elena Sufieva](https://levelup.gitconnected.com/advanced-typescript-types-with-examples-1d144e4eda9e)
 
-## jest & typescript
-
-* [ts-jest](https://kulshekhar.github.io/ts-jest/user/config/)
-
 ## gulpfile.js
 
 This is a boiler-plate-free example `gulpfile.js` suitable for use with NodeJS.
@@ -1956,6 +1952,10 @@ module.exports = {
 };
 ```
 
+## jest & typescript
+
+* [ts-jest](https://kulshekhar.github.io/ts-jest/user/config/)
+
 ## tsconfig.json
 
 This is a boiler-plate-free example `tsconfig.json` suitable for use with
@@ -2002,6 +2002,12 @@ usually happen when deserializing an object, parsing command line arguments, ...
 
 [tsdef](https://www.npmjs.com/package/tsdef) is a TypeScript library of type
 shortcuts (less typing for you).
+
+## tsdx
+
+* [tsdx -- a zero-config CLI for spinning up a templated TypeScript library project](https://www.npmjs.com/package/tsdef) is a TypeScript library of type
+shortcuts (less typing for you).
+   * I don't particularly like the fact it is not suited directly for CLI's themselves. Eg. you have to make manual changes to the result in order to be able to run it as such.
 
 # ultimate plumber
 
