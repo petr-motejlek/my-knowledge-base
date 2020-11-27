@@ -302,6 +302,7 @@ is a Docker Hub image available also, for ease of use.
 *   [Mastering Chaos: A Netflix Guide to Microservices, lecture by Josh Evans, at QCon 2017](https://www.youtube.com/watch?v=CZ3wIuvmHeM&feature=share)
 *   [SOLID Principles -- lecture by Uncle Bob](https://www.youtube.com/watch?v=t86v3N4OshQ)
 *   [Functional Programming in 40 Minutes; lecture by Russ Olsen, at GOTO 2018](https://www.youtube.com/watch?v=0if71HOyVjY)
+*   [Old Is the New New, talk by Kevlin Henney, at GOTO 2018](https://www.youtube.com/watch?v=AbgsfeGvg3E&feature=youtu.be)
 
 # common media application format (cmaf)
 
