@@ -304,6 +304,8 @@ is a Docker Hub image available also, for ease of use.
 *   [SOLID Principles -- lecture by Uncle Bob](https://www.youtube.com/watch?v=t86v3N4OshQ)
 *   [Functional Programming in 40 Minutes; lecture by Russ Olsen, at GOTO 2018](https://www.youtube.com/watch?v=0if71HOyVjY)
 *   [Old Is the New New, talk by Kevlin Henney, at GOTO 2018](https://www.youtube.com/watch?v=AbgsfeGvg3E&feature=youtu.be)
+*   [Feature Branches and Toggles in Post-GitHub World, lecture by Sam Newman at GOTO 2017 on YouTube](https://www.youtube.com/watch?v=lqRQYEHAtpk&t=1s)
+    * Very good summary of why you need trunk-based development instead of \*-branches.  
 
 # common media application format (cmaf)
 
