@@ -1013,6 +1013,11 @@ a Kubernetes installation. Again, it is configurable upfront.
 *   [Two Types of Authority Leaders Must Give to Self-Organizing Teams, article by Mike Cohn](https://www.mountaingoatsoftware.com/blog/two-types-of-authority-leaders-must-give-to-self-organizing-teams)
 *   ["DO's and DON'T'S for Managers in Agile", blog post by Anton Zotin](https://www.linkedin.com/posts/antonzotin_crowd-wisdom-agile-activity-6579740861112832000-WQUu/)
 *   [Management 3.0 -- A real experiment with agile management -- Agile Prague 2019, lecture by Ralph van Roosmalen](https://www.youtube.com/watch?v=DVQ76fNtzZw)
+*   [Lies, Damned Lies, and Metrics; lecture by Roy Osherove, at GOTO 2017, on YouTube](https://www.youtube.com/watch?v=goihWvyqRow&t=1s)
+    * This sits in the middle between management and perfect code, as metrics is something that both management on which the teams
+      and the management need to work together. I have seen it fail too many times when management were the only ones working on
+      it, failing (because they were forcing the teams into bad habbits). I have also seen it being done only be the teams,
+      failing (because management did not care and did not allow changes to happen based on those metrics' results).
 
 # minio
 
