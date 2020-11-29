@@ -377,6 +377,10 @@ instant (in response to file system change) actions as well as recurring ones.
 *   [Lazy Docker](https://github.com/jesseduffield/lazydocker/blob/master/docs/keybindings/Keybindings_en.md) – a text-based user interface that's very handy when you
     aren't proficient with docker command line and you just want to dig around
     for information on your docker engine (containers, images, ...)
+    
+# documentation
+
+*   [Visualize, document and and explore your software architecture; lecture by Simon Brown, at NDC London 2017, on YouTube](https://www.youtube.com/watch?v=Ym9nhVZs89o)
 
 # [EditorConfig](https://editorconfig.org/)
 
