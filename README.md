@@ -306,6 +306,7 @@ is a Docker Hub image available also, for ease of use.
 *   [Old Is the New New, talk by Kevlin Henney, at GOTO 2018](https://www.youtube.com/watch?v=AbgsfeGvg3E&feature=youtu.be)
 *   [Feature Branches and Toggles in Post-GitHub World, lecture by Sam Newman at GOTO 2017 on YouTube](https://www.youtube.com/watch?v=lqRQYEHAtpk&t=1s)
     * Very good summary of why you need trunk-based development instead of \*-branches.  
+*   [Insecure Transit -- Microservice Security; lecture by Sam Newman, at NDC London 2019, on YouTube](https://www.youtube.com/watch?v=MdiUlmDwqEw)
 
 # common media application format (cmaf)
 
