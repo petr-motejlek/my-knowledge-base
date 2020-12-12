@@ -749,6 +749,7 @@ that makes it easy to expand ~ (tilda) in filesystem paths (which is something
 
 ### VueJS 3
 
+*   [Plans for the Next Iteration of Vue.js, article by Evan You, at Medium](https://medium.com/the-vue-point/plans-for-the-next-iteration-of-vue-js-777ffea6fabf)
 *   [Vue 3: What's New? What Changed?; tutorial by Academind on YouTube](https://www.youtube.com/watch?v=A5cVyjrKx_Q&t=1s)
 *   [Vue 3 Composition API Full Introduction; tutorial by Academind on YouTube](https://www.youtube.com/watch?v=bwItFdPt-6M)
 
