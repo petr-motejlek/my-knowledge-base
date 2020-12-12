@@ -1898,6 +1898,7 @@ spun up using a Docker image.
 *   [Typing Destructured Object Parameters in TypeScript, article by
     Marius Schulz](https://mariusschulz.com/blog/typing-destructured-object-parameters-in-typescript)
 *   [Advanced TypeScript Types with Examples, article by Elena Sufieva](https://levelup.gitconnected.com/advanced-typescript-types-with-examples-1d144e4eda9e)
+*   [Type-Safe Value Objects in TypeScript, article by Hannes Petri, at Medium](https://medium.com/@hannespetri/type-safe-value-objects-in-typescript-d1b119c4f5cd)
 
 ## gulpfile.js
 
