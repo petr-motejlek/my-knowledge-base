@@ -1519,6 +1519,8 @@ used as a message broker.
 
 # ruby
 
+*   [Ruby Programming, video tutorial by Derek Banas, on YouTube](https://www.youtube.com/watch?v=Dji9ALCgfpM)
+
 ## ruby on rails
 
 *   [Ruby on Rails Crash Course 2020, video tutorial by Web-Crunch & Traversy Media, on YouTube](https://www.youtube.com/watch?v=B3Fbujmgo60)
