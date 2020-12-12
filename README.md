@@ -308,6 +308,13 @@ is a Docker Hub image available also, for ease of use.
     * Very good summary of why you need trunk-based development instead of \*-branches.  
 *   [Insecure Transit -- Microservice Security; lecture by Sam Newman, at NDC London 2019, on YouTube](https://www.youtube.com/watch?v=MdiUlmDwqEw)
 
+## coding challenges
+
+*   [Codility](https://app.codility.com/programmers/)
+    *   You can register and track your progress. With every exercise, you can choose a different language in which you want to perform it.
+        Unfortunatelly, TypeScript is as of 2020-12-12 not supported (but one can always write it elsewhere, convert to JavaScript and paste
+        it in).
+
 # common media application format (cmaf)
 
 *   PR: [CMAF is coming and it could dramatically improve livestreaming](https://www.fiercevideo.com/tech/cmaf-coming-and-it-could-dramatically-improve-livestreaming)
