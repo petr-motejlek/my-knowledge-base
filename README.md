@@ -1517,6 +1517,12 @@ used as a message broker.
     refrain from sending personal messages, I want you to try and not receive
     them either."
 
+# ruby
+
+## ruby on rails
+
+*   [Ruby on Rails Crash Course 2020, video tutorial by Web-Crunch & Traversy Media, on YouTube](https://www.youtube.com/watch?v=B3Fbujmgo60)
+
 # rust
 
 *   [Rust, Crash Course, video by Traversy Media](https://www.youtube.com/watch?v=zF34dRivLOw)
