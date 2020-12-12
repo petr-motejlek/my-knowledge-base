@@ -385,6 +385,7 @@ instant (in response to file system change) actions as well as recurring ones.
 *   [Lazy Docker](https://github.com/jesseduffield/lazydocker/blob/master/docs/keybindings/Keybindings_en.md) – a text-based user interface that's very handy when you
     aren't proficient with docker command line and you just want to dig around
     for information on your docker engine (containers, images, ...)
+*   [Secure Socks: Exploring Microservice Security in an Open Source Sock Shop, lecture by Phil Winder, at GOTO 2016, on YouTube](https://www.youtube.com/watch?v=GOjAcmVUmZc&t=4s)
     
 # documentation
 
