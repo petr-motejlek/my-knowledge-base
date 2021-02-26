@@ -407,6 +407,10 @@ working on the same project across various editors and IDEs."
 
 * [How to analyse log files using Elastic Search File Beat (7.x), video by LabIT on YouTube](https://youtu.be/Ul2Rt9mn_ds)
 
+## LogStash
+
+* [LogStash Overview, video by Sundog Education with Frank Kane, on YouTube](https://www.youtube.com/watch?v=gUJvP2OZENk&feature=youtu.be)
+
 # elm
 
 * [Next-Generation Programming: Rust & Elm, lecture by Richard Feldman at GOTO 2020 on YouTube](https://www.youtube.com/watch?v=ukVqQGbxM9A&feature=youtu.be)
