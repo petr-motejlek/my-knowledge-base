@@ -957,6 +957,10 @@ $ <values.schema.yaml python -c "import json; import sys; import yaml; json.dump
 *   `kind` is a tool for running local Kubernetes clusters using Docker
     container “nodes”.
 
+## [krew](https://krew.sigs.k8s.io/docs/user-guide/quickstart/)
+
+[Krew](https://krew.sigs.k8s.io/docs/user-guide/quickstart/) is a package manager for Kubernetes.
+
 ## metalLB
 
 [metalLB](https://metallb.universe.tf/installation/) is a very easy-to-use load
