@@ -767,6 +767,14 @@ that makes it easy to expand ~ (tilda) in filesystem paths (which is something
 
 ## vuejs
 
+* Vue.js Performance Series, by Filip Rakowski on vueschool.io
+   * [Lazy loadng and code splitting in Vue.js, post by Filip Rakowski on vueschool.io](https://vueschool.io/articles/vuejs-tutorials/lazy-loading-and-code-splitting-in-vue-js/)
+   * [Vue.js Router Performance, post by Filip Rakowski on vueschool.io](https://vueschool.io/articles/vuejs-tutorials/vue-js-router-performance/)
+   * [Lazy Loading Individual Vue Components and Prefetching, post by Filip Rakowski on vueschool.io](https://vueschool.io/articles/vuejs-tutorials/lazy-loading-individual-vue-components-and-prefetching/)
+   * [Optimizing Third-Party Libraries, post by Filip Rakowski on vueschool.io](https://vueschool.io/articles/vuejs-tutorials/vue-js-performance-optimizing-third-party-libraries/)
+   * [Mastering Browser Cache, post by Filip Rakowski on vueschool.io](https://vueschool.io/articles/vuejs-tutorials/vue-js-performance-mastering-cache/)
+   * [Nuxt SSR Optimizing Tips, post by Filip Rakowski on vueschool.io](https://vueschool.io/articles/vuejs-tutorials/nuxt-ssr-optimizing-tips/)
+
 ### VueJS 2
 
 *   [VueJS 2, video playlist by The Net Ninja](https://www.youtube.com/playlist?list=PL4cUxeGkcC9gQcYgjhBoeQH7wiAyZNrYa)
