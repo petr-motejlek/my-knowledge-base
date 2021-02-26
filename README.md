@@ -401,6 +401,12 @@ working on the same project across various editors and IDEs."
 
 [Prettier can honor whatever settings are in .editorconfig](https://prettier.io/docs/en/api.html#prettierresolveconfigfilepath--options)
 
+# elk (aka Elastic Stack)
+
+## File Beat
+
+* [How to analyse log files using Elastic Search File Beat (7.x), video by LabIT on YouTube](https://youtu.be/Ul2Rt9mn_ds)
+
 # elm
 
 * [Next-Generation Programming: Rust & Elm, lecture by Richard Feldman at GOTO 2020 on YouTube](https://www.youtube.com/watch?v=ukVqQGbxM9A&feature=youtu.be)
