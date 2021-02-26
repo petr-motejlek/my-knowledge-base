@@ -660,6 +660,10 @@ that amongst other things, allows one to write code using the latest syntactic
 sugars, while keeping the resulting code compatible with engines that do not
 support those features (as long as Babel is able to transpile them).
 
+## [browserlist](https://github.com/browserslist/browserslist)
+
+"The config to share target browsers and Node.js versions between different front-end tools."
+
 ## [copy-to-clipboard](https://www.npmjs.com/package/copy-to-clipboard)
 
 [copy-to-clipboard](https://www.npmjs.com/package/copy-to-clipboard) is
