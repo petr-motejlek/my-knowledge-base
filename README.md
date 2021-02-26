@@ -405,6 +405,10 @@ working on the same project across various editors and IDEs."
 
 * [How to use LogStash to parse and import JSON data into ElasticSearch, video by Sundog Education with Frank Kane,on YouTube](https://www.youtube.com/watch?v=_qgS1m6NTIE&feature=youtu.be)
 
+## Elastic Search
+
+* [Elastic Search Tutorial for Beginners, video by Udemy feat. Frank Kane, on YouTube](https://www.youtube.com/watch?v=C3tlMqaNSaI&feature=youtu.be)
+
 ## File Beat
 
 * [How to analyse log files using Elastic Search File Beat (7.x), video by LabIT on YouTube](https://youtu.be/Ul2Rt9mn_ds)
