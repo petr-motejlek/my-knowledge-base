@@ -1605,6 +1605,7 @@ They both use Python and YAML.
 *   [Common Dysfunctions of Scrum Teams, Part II, post by "The Clever PM"](http://www.cleverpm.com/2015/06/25/common-dysfunctions-of-scrum-teams-part-2/)
 *   [Scrum@Scale, GOTO 2017, presentation by Joe Justice](https://www.youtube.com/watch?v=tszYUvVvoLg&feature=share)  
     *   Very inspiring. Very motivating. Recommended.
+*   [Scrum Master: Shared or Dedicated, post by Andreea Gheorghiu](https://medium.com/metrosystemsro/scrum-master-shared-or-dedicated-58e239ab00c0)
 
 # Slash TZ (/tz)
 
