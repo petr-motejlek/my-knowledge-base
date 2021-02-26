@@ -79,6 +79,7 @@ even a command-line client available.
 *   [Ending Video Game Death Marches - #1 Managing Debt, blog post by Clinton Keith](https://blog.agilegamedevelopment.com/2020/02/ending-crunch-managing-debt.html)
 *   [Stop Managing Dependencies, article by Jurgen de Smet](https://co-learning.be/2016/01/19/stop-managing-dependencies/)
 *   [Agility != Speed, lecture by Kevlin Henney on YouTube](https://www.youtube.com/watch?v=kmFcNyZrUNM&feature=youtu.be)
+*   [Self-Organizing Agile Teams Are Not Put Together Randomly, post by Mike Cohn](https://www.mountaingoatsoftware.com/blog/self-organizing-teams-are-not-put-together-randomly)
 
 ## HR
 
