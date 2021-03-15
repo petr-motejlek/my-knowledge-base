@@ -213,6 +213,12 @@ with containers and/or virtualization.
     *   "Very useful to get to know the offerings overall. The
         quiz/certification is a bit questionable, though :).
 
+# [Apache Storm](https://storm.apache.org/index.html)
+
+Powerful platform for real-time processing of data. Unlike, say, Hadoop or the likes, Apache Storm is meant to ingest the real-time events and process them on the fly.
+
+* [Apache Storm Tutorial For Beginners, video tutorial by Edureka on YouTube](https://youtube.com/watch?v=0mIEUibjtzk&feature=share)
+
 # [balenaEtcher](https://www.balena.io/etcher/)
 
 [balenaEtcher](https://www.balena.io/etcher/) is a macOS application similar in
