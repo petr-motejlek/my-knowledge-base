@@ -712,6 +712,24 @@ SQL databases (MS SQL (Azure included), MySQL, PgSQL, ...). Where it really
 outshines all the others is the superb builder interface and integrated schema
 migration. TypeScript typings are included.
 
+## nodejs (aka node.js)
+
+### node version manager
+
+There's a bunch of tools that have more or less the same objective: for one to be
+able to quickly and easily switch between different versions of Node on their
+machine. Such as
+
+```bash
+$ nvm install 14   # install the latest NodeJS 14
+$ nvm use 14   # use the already installed NodeJS 14 version
+$ nvm use   # use whatever NodeJS version is expected in the project's .nvmrc file
+```
+
+* [nvm-sh](https://github.com/nvm-sh/nvm) -- the original that started it all (works on most standard Unix shells, such as Bash, ZSH, ...)
+* [nvm-windows](https://github.com/coreybutler/nvm-windows) -- a Windows clone with the most similar command-line interface, but still somewhat different
+* [nvm for PowerShell](https://www.powershellgallery.com/packages/nvm) -- a clone that works on Powershell; has a different interface, but is also usable to get the job done
+
 ## [pg](https://www.npmjs.com/package/pg)
 
 [pg](https://www.npmjs.com/package/pg) is a JavaScript library providing the
