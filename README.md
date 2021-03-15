@@ -1564,6 +1564,11 @@ persistence support) database for storing various data types; it can also be
 used as a message broker.
 
 *   [Learning Redis, course on LinkedIn Learning](https://www.linkedin.com/learning/learning-redis/next-steps?u=2141129)
+*   [Simple Task Queues with Flask & Redis, video tutorial by Julian Nash on YouTube](https://youtu.be/3muR5gB8x2o)
+*   [Web Scraping & Task Queues with Flask, video tutorial by Julian Nash on YouTube](https://youtu.be/Mf1tVOMocYk)
+*   [Faster Image Loading with Pillow, RQ & Flask, video tutorial by Julian Nash on YouTube](https://youtu.be/YLj0F_BJOW8)
+*   [How Shopify is Scaling Up Its Redis Message Queues, lecture by Moe Chaieb at Redis Day New York 2019, on YouTube](https://youtu.be/hu6Q6s0432A)
+*   [Redis Crash Course Tutorial, video by Traversy Media on YouTube](https://youtu.be/Hbt56gFj998)
 
 # remote work
 
