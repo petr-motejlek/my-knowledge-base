@@ -2187,3 +2187,4 @@ configuration files, but even has support for document streaming.
 *   [YAML Essentials, video course on Linux Academy](https://linuxacademy.com/cp/modules/view/id/276)
 *   [shyaml: YAML for command line](https://github.com/0k/shyaml)
 *   [Learn YAML in 5 minutes, article by Leigh Brenecki, Suhas SG](https://learnxinyminutes.com/docs/yaml/)
+*   [yq](https://kislyuk.github.io/yq/) -- parses YAML, TOML and XML into JSON and feeds it to `jq` bringing its capabilities to the other formats
