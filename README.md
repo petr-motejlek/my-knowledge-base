@@ -1200,6 +1200,7 @@ as source for your slides as well as document to be published (HTML).
 *   [On Pair Programming, article by Birgitta Böckeler & Nina Siessegger](https://martinfowler.com/articles/on-pair-programming.html)
 *   [Remote Mob Programming, article by Simon Harrer, Jochen Christ and Martin Huber](https://www.remotemobprogramming.org/)
 *   [Mob Programming -- Agile Prague 2019, lecture by Llewellyn Falco](https://www.youtube.com/watch?v=WoW6Gx91iJg)
+*   [Remote Mob Programming, Mob Programming Gathering, recording by Agile New England, on 2020-09-03](https://youtu.be/jWtsw3N4NI8)
 
 ### pair programming tools
 
