@@ -376,6 +376,10 @@ discovery. It has since become the standard service inside any Kubernetes cluste
 
 *   [CoreDNS: Beyond the Basics - Cricket Liu, Infoblox & John Belamaric, Google; video from KubeCon North America 2019](https://www.youtube.com/watch?v=ym1uWYzxpEE)
 
+# design
+
+*   [Clean Up Your Mess](https://www.visualmess.com/) -- concise entry into the world of design thinking.
+
 # devops
 
 *   [DevOps Foundations: Infrastructure as Code, video course on LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code?u=2141129)
