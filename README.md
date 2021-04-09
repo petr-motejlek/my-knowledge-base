@@ -1565,6 +1565,12 @@ the Python programming language.
 *   "Shipping first time code is like going into debt. A little debt speeds development so long as it is paid back promptly with a rewrite. The danger occurs when the debt is not repaid. Every minute spent on not-quite-right code counts as interest on that debt.", by Ward Cunningham
 *   "Cars have breaks so you can go fast.", by Kevlin Henney
 
+# [RabbitMQ](https://www.rabbitmq.com/)
+
+RabbitMQ is a multiplatform distributed message broker.
+
+*   [RabbitMQ : Message Queues for beginners, video by That DevOps Guy, on YouTube](https://www.youtube.com/watch?v=hfUIWe1tK8E)
+
 # redis
 
 [redis](https://redis.io/documentation) is a powerful in-memory (with
