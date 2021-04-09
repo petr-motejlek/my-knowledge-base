@@ -279,6 +279,7 @@ yourself.
 Celery is a distributed platform for task queue management. based on sending and receiving of messages.
 
 *   [Asynchronous Tasks in Python - Getting Started With Celery [2020], video by Pretty Printed, on YouTube](https://www.youtube.com/watch?v=THxCy-6EnQM)
+*   [Task Queues: A Celery Story, lecture by Tom Manderson, at PyCon AU 2018, on YouTube](https://www.youtube.com/watch?v=ceJ-vy7fvus)
 
 # cloudflare/cfssl
 
