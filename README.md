@@ -367,6 +367,15 @@ is a Docker Hub image available also, for ease of use.
 *   very powerful tool that allows conversion/merge/join of csv, json, various
     other formats and also pretty prints this
 
+# [CoreDNS](https://coredns.io/)
+
+CoreDNS is, mainly, a DNS server written in Go. Thus it is mean to be pretty fast and
+secure, including memory operations. It also offers a wide range of plugins to make
+its job easier, or more complicated, but to still get it done. It can even do service
+discovery. It has since become the standard service inside any Kubernetes cluster.
+
+*   [CoreDNS: Beyond the Basics - Cricket Liu, Infoblox & John Belamaric, Google; video from KubeCon North America 2019](https://www.youtube.com/watch?v=ym1uWYzxpEE)
+
 # devops
 
 *   [DevOps Foundations: Infrastructure as Code, video course on LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code?u=2141129)
