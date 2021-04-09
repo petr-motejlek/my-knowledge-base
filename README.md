@@ -274,6 +274,12 @@ yourself.
 
 *   [Tailwind CSS, series of video tutorials by The Net Ninja](https://www.youtube.com/watch?v=bxmDnn7lrnk&list=PL4cUxeGkcC9gpXORlEHjc5bgnIi5HEGhw)
 
+# [celery](https://docs.celeryproject.org/en/stable/index.html)
+
+Celery is a distributed platform for task queue management. based on sending and receiving of messages.
+
+*   [Asynchronous Tasks in Python - Getting Started With Celery [2020], video by Pretty Printed, on YouTube](https://www.youtube.com/watch?v=THxCy-6EnQM)
+
 # cloudflare/cfssl
 
 *   [CloudFlare's PKI/TLS Toolkit](https://github.com/cloudflare/cfssl) –
