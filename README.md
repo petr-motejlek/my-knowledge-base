@@ -792,6 +792,13 @@ to get. TypeScript typings are available in
 (much smaller in comparison) JavaScript library to _ramda_. TypeScript typings
 are included.
 
+## [Serenity/JS](https://serenity-js.org/)
+
+Acceptance-testing-focused framework that supports JavaScript & TypeScript out of the box,
+and connects with Jasmine and Mocha.
+
+* [Full Stack Acceptance Testing with Serenity JS and the Screenplay Pattern, video by Jan Molak, on YouTube](https://www.youtube.com/watch?v=djPMf-n93Rw)
+
 ## [tar](https://www.npmjs.com/package/tar)
 
 [tar](https://www.npmjs.com/package/tar) is a JavaScript library capable of
