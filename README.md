@@ -2205,6 +2205,7 @@ various features, such as automatic user creation in AWS, databases, ...
 *   [Secrets Management, tutorial by HashiCorp](https://learn.hashicorp.com/vault?track=secrets-management#secrets-management)
 *   [Access Management, tutorial by HashiCorp](https://learn.hashicorp.com/vault?track=identity-access-management#identity-access-management)
 *   [Data Encryption, tutorial by HashiCorp](https://learn.hashicorp.com/vault?track=encryption-as-a-service#encryption-as-a-service)
+*   [Demo: Vault + Kubernetes Sidecar Injection, tutorial by Jason Donell (HashiCorp) on Youtube](https://youtu.be/xUuJhgDbUJQ)
 
 # visual studio code
 
