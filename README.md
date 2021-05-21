@@ -1222,6 +1222,10 @@ as source for your slides as well as document to be published (HTML).
 *   [Mob Programming -- Agile Prague 2019, lecture by Llewellyn Falco](https://www.youtube.com/watch?v=WoW6Gx91iJg)
 *   [Remote Mob Programming, Mob Programming Gathering, recording by Agile New England, on 2020-09-03](https://youtu.be/jWtsw3N4NI8)
 
+### mob programming
+
+*   [Mob Programming Facilitation and ROI with Llewellyn Falco, by Mob Mentality Show, on Youtube](https://www.youtube.com/watch?v=uBrnlDtxRcQ)
+
 ### pair programming tools
 
 *   [Google Remote Desktop](https://remotedesktop.google.com) – works only when
