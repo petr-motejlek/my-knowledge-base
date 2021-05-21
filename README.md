@@ -340,9 +340,9 @@ is a Docker Hub image available also, for ease of use.
 
 # [consul](https://learn.hashicorp.com/consul/getting-started/consul-gs-intro) (aka HashiCorp Consul)
 
-[consul](https://learn.hashicorp.com/consul/getting-started/consul-gs-intro) is a service-discovery platform suitable for containerized deployments.
-
+*   [consul](https://learn.hashicorp.com/consul/getting-started/consul-gs-intro) is a service-discovery platform suitable for containerized deployments.
 *   [Learn how to run service discovery and a service mesh with Consul, tutorial by HashiCorp](https://learn.hashicorp.com/consul)
+*   [Consul Service Mesh: Deep Dive, by Nic Jackson, lecture on Youtube](https://youtu.be/Aq1uTozNajI)
 
 # container linux (formerly CoreOS)
 
