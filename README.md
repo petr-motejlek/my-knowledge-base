@@ -660,6 +660,13 @@ Istio makes it easy to create a network of deployed services with load balancing
 
 *   [Service Mesh with Istio, video course on Linux Academy](https://linuxacademy.com/cp/modules/view/id/322?redirect_uri=https://app.linuxacademy.com/search?type=Course&categories=Linux)
 
+# Java
+
+## [JGiven](https://jgiven.org/)
+
+*  JGiven is an intruiging Java framework that seems to finally make it possible to
+   write BDD tests directly in Java, as opposed to using plain text formats.
+
 # JavaScript
 
 *   [JavaScript: Understanding the Weird Parts, video course by Tony Alicea](https://www.youtube.com/watch?v=Bv_5Zv5c-Ts&feature=share)
@@ -784,6 +791,13 @@ to get. TypeScript typings are available in
 [ramda-adjunct](https://www.npmjs.com/package/ramda-adjunct) is a complementary
 (much smaller in comparison) JavaScript library to _ramda_. TypeScript typings
 are included.
+
+## [Serenity/JS](https://serenity-js.org/)
+
+Acceptance-testing-focused framework that supports JavaScript & TypeScript out of the box,
+and connects with Jasmine and Mocha.
+
+* [Full Stack Acceptance Testing with Serenity JS and the Screenplay Pattern, video by Jan Molak, on YouTube](https://www.youtube.com/watch?v=djPMf-n93Rw)
 
 ## [tar](https://www.npmjs.com/package/tar)
 
