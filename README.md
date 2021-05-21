@@ -1011,6 +1011,11 @@ One example using pyyaml is:
 $ <values.schema.yaml python -c "import json; import sys; import yaml; json.dump(yaml.load(sys.stdin), sys.stdout, indent=2)" >values.schema.json
 ```
 
+## [k8s_gateway](https://github.com/ori-edge/k8s_gateway)
+
+[k8s_gateway](https://github.com/ori-edge/k8s_gateway) is a really cool extension to any k8s cluster,
+becaue it allows external DNS resolution for all service and ingress resources.
+
 ## [kind](https://kind.sigs.k8s.io/docs/user/quick-start/)
 
 *   `kind` is a tool for running local Kubernetes clusters using Docker
