@@ -1718,6 +1718,7 @@ They both use Python and YAML.
 *   [Scrum@Scale, GOTO 2017, presentation by Joe Justice](https://www.youtube.com/watch?v=tszYUvVvoLg&feature=share)  
     *   Very inspiring. Very motivating. Recommended.
 *   [Scrum Master: Shared or Dedicated, post by Andreea Gheorghiu](https://medium.com/metrosystemsro/scrum-master-shared-or-dedicated-58e239ab00c0)
+*   [Scrum Patterns, lecture by James Coplian at Agile Bratislava, on Youtube](https://youtu.be/NSMrGZNdfOg)
 
 # Slash TZ (/tz)
 
