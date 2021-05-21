@@ -1781,6 +1781,13 @@ Text editor.
 
 *   [Sublime Text Tutorials](https://www.youtube.com/watch?v=k01udDD-UwI&list=PLLnpHn493BHEYF4EX3sAhVG2rTqCvLnsP)
 
+# svelte
+
+"Honestly, Svelte feels and seems like a Vue ripoff. To me, a heavy TypeScript user, it does not seem
+to be doing anything too different or radical enough, to really warrant a switch."
+
+*   [Svelte for Beginners, tutorial by The Net Ninja, on Youtube](https://www.youtube.com/playlist?list=PL4cUxeGkcC9hlbrVO_2QFVqVPhlZmz7tO)
+
 # team building (games)
 
 ## Human Knot
