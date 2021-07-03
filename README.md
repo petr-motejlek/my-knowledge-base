@@ -1062,6 +1062,8 @@ RKE is a tool that can either be used standalone or in conjunction with
 RancherOS and allows one to upgrade their running Docker Engine installation to
 a Kubernetes installation. Again, it is configurable upfront.
 
+*   [Laravel 6 Tutorial for Beginners, playlist on YouTube, by The Net Ninja](https://www.youtube.com/playlist?list=PL4cUxeGkcC9hL6aCFKyagrT1RCfVN4w2Q)
+
 # linux
 
 *   [LPI Linux Essentials Certification, video course on Linux Academy](https://linuxacademy.com/cp/modules/view/id/346)
@@ -1260,10 +1262,19 @@ the collected data.
 
 # php
 
-### [composer](http://getcomposer.org/)
+## [composer](http://getcomposer.org/)
 
 [Composer](http://getcomposer.org/) is dependency manager for the PHP
 programming language. Similar in nature to JavaScript's NPM or Ruby's Gems.
+
+## [Laravel](https://laravel.com/)
+
+If you already use Nette (or parts of it), I think this is so similar, that
+it's not really worth switching. Nevertheless, it's good to know about it.
+
+*   [Laravel 6 Tutorial for Beginners, YouTube playlist, by The Net Ninja](https://www.youtube.com/playlist?list=PL4cUxeGkcC9hL6aCFKyagrT1RCfVN4w2Q)
+
+## [Nette](https://nette.org/)
 
 # powershell
 
