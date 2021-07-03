@@ -417,6 +417,13 @@ so it might be worth a while to check it out too.
     * This video is actually part of a series that I suggest people go watch.
       It is quite concise and goes over most of the distributed systems basics.
 
+## raft
+
+Raft is a younger competitor to the Paxos consensus algorithm. It is commonly
+referred by people as "being simpler to understand and implement".
+
+*   [Designing for Understandability: The Raft Consensus Algorithm, YouTube video, by Diego Ongaro](https://www.youtube.com/watch?v=vYp4LYbnnW8)
+
 # docker (containers)
 
 *   [Docker Containers LiveLessons](https://www.safaribooksonline.com/library/view/docker-containers-livelessons/9780134096193/) – brief introduction to docker containers and why
