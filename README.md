@@ -393,6 +393,30 @@ great tool for those who like to keep files and directories synchronized (or
 mirrored, or one-way mirrored, or simply backed up) on Windows. It supports
 instant (in response to file system change) actions as well as recurring ones.
 
+# distributed systems
+
+From the most part, I expect this section to be pure theory, full of bookmarks
+to other theory, papers, video lectures, ...
+
+*   [Distributed Systems, YouTube playlist, by Chris Colohan](https://www.youtube.com/playlist?list=PLOE1GTZ5ouRPbpTnrZ3Wqjamfwn_Q5Y9A)
+
+## paxos
+
+Paxos is one of the algorithms used by distributed systems to reach consensus
+(e.g. consistency).
+
+It is probably the oldest, published by Leslie Lamport, who actually originally
+tried to disprove the algorithm. Well, what do you know? He ended up proving
+it works.
+
+Recently, a slightly different algorithm, Raft, has seend an uprise in popularity,
+so it might be worth a while to check it out too.
+
+*   [The Paxos Algorithm, YouTube video, by Luis Quesada Torres @ Google](https://www.youtube.com/watch?v=d7nAGI_NZPk)
+*   [Paxos Simplified, YouTube video, by Chris Colohan](https://www.youtube.com/watch?v=SRsK-ZXTeZ0)
+    * This video is actually part of a series that I suggest people go watch.
+      It is quite concise and goes over most of the distributed systems basics.
+
 # docker (containers)
 
 *   [Docker Containers LiveLessons](https://www.safaribooksonline.com/library/view/docker-containers-livelessons/9780134096193/) – brief introduction to docker containers and why
@@ -1283,20 +1307,6 @@ participate. Is reasonably quick and deals well with latency jittering.
 PCP, for short, is an attempt to put together the power behind tools like
 htop, iotop, ... not only at runtime, but also to allow later processing of
 the collected data.
-
-# paxos
-
-Paxos is one of the algorithms used by distributed systems to reach consensus
-(e.g. consistency).
-
-It is probably the oldest, published by Leslie Lamport, who actually originally
-tried to disprove the algorithm. Well, what do you know? He ended up proving
-it works.
-
-Recently, a slightly different algorithm, Raft, has seend an uprise in popularity,
-so it might be worth a while to check it out too.
-
-*   [The Paxos Algorithm, YouTube video, by Luis Quesada Torres @ Google](https://www.youtube.com/watch?v=d7nAGI_NZPk)
 
 # php
 
