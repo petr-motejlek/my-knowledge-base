@@ -399,6 +399,10 @@ From the most part, I expect this section to be pure theory, full of bookmarks
 to other theory, papers, video lectures, ...
 
 *   [Distributed Systems, YouTube playlist, by Chris Colohan](https://www.youtube.com/playlist?list=PLOE1GTZ5ouRPbpTnrZ3Wqjamfwn_Q5Y9A)
+    *   A good starting point. Quite short, but concise.
+*   [CSE138; Distributed Systems; Spring 2021, YouTube playlist, by Lindsey Kuper](https://www.youtube.com/playlist?list=PLNPUF5QyWU8PydLG2cIJrCvnn5I_exhYx)
+    *   It's a whole university class, but Lindsey Kuper surely knows how to teach it.
+        I recommend it wholeheartedly, if you want to know more about the topic.
 
 ## paxos
 
