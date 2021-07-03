@@ -721,6 +721,19 @@ interfaces, no weird callbacks). TypeScript typings are included.
 
 [eslint](https://eslint.org) is a JavaScript linter.
 
+## [fflate](https://www.npmjs.com/package/fflate)
+
+Compression/decompression library written in pure JavaScript, hence
+it does not require any specific underlying library, and can thus run
+even in the browser.
+
+I personally like it, since I've noticed that NodeJS's Gzip standard library
+tends to leak file descriptors (they hang around until the process gets
+reaped), and `fflate` does not suffer from that. And the devs claim
+it can even be faster in some occasions than the standard library.
+
+It contains integrated TypeScript types in the main package.
+
 ## [genversion](https://www.npmjs.com/package/genversion)
 
 [genversion](https://www.npmjs.com/package/genversion) is a handy JavaScript
