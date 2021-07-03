@@ -764,6 +764,17 @@ $ nvm use   # use whatever NodeJS version is expected in the project's .nvmrc fi
 * [nvm-windows](https://github.com/coreybutler/nvm-windows) -- a Windows clone with the most similar command-line interface, but still somewhat different
 * [nvm for PowerShell](https://www.powershellgallery.com/packages/nvm) -- a clone that works on Powershell; has a different interface, but is also usable to get the job done
 
+### [why-is-node-running](https://www.npmjs.com/package/why-is-node-running)
+
+Sometimes, a NodeJS process just hangs. This is usually caused by an unawaited promise,
+or unclosed database connection, etc. I never found it easy enough to figure out which
+exactly it is. `why-is-node-running` can help.
+
+The one thing I really like about it is that it can be easily used without changing the
+underlying sources. It is possible to simply run `node` (or `nodemon`)
+with `-r` `why-is-node-running/include` as extra arguments, and then, when the process
+remains hanging, simply `kill -SIGUSR1` the process, and it will print out a report.
+
 ## [pg](https://www.npmjs.com/package/pg)
 
 [pg](https://www.npmjs.com/package/pg) is a JavaScript library providing the
