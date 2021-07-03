@@ -1284,6 +1284,20 @@ PCP, for short, is an attempt to put together the power behind tools like
 htop, iotop, ... not only at runtime, but also to allow later processing of
 the collected data.
 
+# paxos
+
+Paxos is one of the algorithms used by distributed systems to reach consensus
+(e.g. consistency).
+
+It is probably the oldest, published by Leslie Lamport, who actually originally
+tried to disprove the algorithm. Well, what do you know? He ended up proving
+it works.
+
+Recently, a slightly different algorithm, Raft, has seend an uprise in popularity,
+so it might be worth a while to check it out too.
+
+*   [The Paxos Algorithm, YouTube video, by Luis Quesada Torres @ Google](https://www.youtube.com/watch?v=d7nAGI_NZPk)
+
 # php
 
 ## [composer](http://getcomposer.org/)
