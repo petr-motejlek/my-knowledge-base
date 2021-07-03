@@ -1052,6 +1052,7 @@ more theory-oriented, course
 *   [Learning Kubernetes, video course on LinkedIn Learning](https://www.linkedin.com/learning/learning-kubernetes?u=2141129)
 *   [Kubernetes Security, video course on Linux Academy](https://linuxacademy.com/cp/modules/view/id/302) and [Kubernetes Security (Advanced Concepts), video course on Linux Academy
      ](https://linuxacademy.com/cp/modules/view/id/354?redirect_uri=https://app.linuxacademy.com/search?type=Course&categories=Linux)
+*   [Kubernetes pod autoscaling for beginners, YouTube video, by That DevOps Guy](https://youtube.com/watch?v=FfDI08sgrYY&feature=share)
 
 ## [helm](https://helm.sh/docs/chart_template_guide/getting_started/)
 
