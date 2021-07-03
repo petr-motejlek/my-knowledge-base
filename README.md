@@ -2262,6 +2262,26 @@ various features, such as automatic user creation in AWS, databases, ...
 *   [An In Depth Tutorial on Linux Development on Windows with WSL and Visual
     Studio Code, post by Craig Loewen](https://devblogs.microsoft.com/commandline/an-in-depth-tutorial-on-linux-development-on-windows-with-wsl-and-visual-studio-code/?WT.mc_id=-blog-scottha)
 
+# windows
+
+## How to prevent Windows going to sleep?
+
+I personally tried a couple different solutions, starting with the obvious settings
+presented by Windows in the control panel, going through the secret settings (that
+one has to first enable), and ending up with 3rd-party apps to do the job.
+
+Turns out, preventing Windows from falling asleep on a laptop computer is suspiciously
+hard. It seems somewhat doable if you don't plan to ever enable the lock screen (which
+you should, because there's no need to keep the computer fully accessible when you
+might be in the other room). But when Windows gets to the lock screen, it seems
+(despite being told not to) to always decide it's time to go to sleep.
+
+My recommendation is then either [Don't sleep](http://www.softwareok.com/?seite=Microsoft/DontSleep)
+or [Caffeine](https://zhornsoftware.co.uk/caffeine/). They just do the job. No need to fiddle with
+a gazillion of configuration options. And you can still lock the computer and it won't go to sleep :).
+
+[Interested in the "secret" sleep-prevention settings in Windows? Here you go!](https://superuser.com/questions/1153162/how-do-i-stop-windows-10-going-to-sleep-after-locking-with-winl-key#1186786)
+
 # wireshark
 
 *   [Wireshark: Advanced Tools and Techniques, video course on LinkedIn Learning](https://www.linkedin.com/learning/wireshark-advanced-tools-and-techniques?u=2141129)
