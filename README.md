@@ -1362,6 +1362,10 @@ micro-service applications and do not wish to directly implement the GraphQL
 specification themselves. A notable feature is the ability to design a schema
 for your database and letting Prisma take care of its deployment.
 
+# progressive web apps
+
+*   [PWA Tutorial for Beginners, YouTube Playlist, by The Net Ninja](https://www.youtube.com/playlist?list=PL4cUxeGkcC9gTxqJBcDmoi5Q2pzDusSL7)
+
 # prometheus
 
 [Prometheus](https://prometheus.io/docs/introduction/first_steps/) is
