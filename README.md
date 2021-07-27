@@ -403,6 +403,12 @@ to other theory, papers, video lectures, ...
 *   [CSE138; Distributed Systems; Spring 2021, YouTube playlist, by Lindsey Kuper](https://www.youtube.com/playlist?list=PLNPUF5QyWU8PydLG2cIJrCvnn5I_exhYx)
     *   It's a whole university class, but Lindsey Kuper surely knows how to teach it.
         I recommend it wholeheartedly, if you want to know more about the topic.
+        
+## CAP Theorem
+
+This is about always being able to only choose two out of: Consistency, Availability and Partition tolerance.
+
+*   [[CS198.2x Week 1] CAP Theorem, YouTube video, by University of Berkeley](https://www.youtube.com/watch?v=K12oQCzjPxE)
 
 ## paxos
 
