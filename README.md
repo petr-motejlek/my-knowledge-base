@@ -858,6 +858,15 @@ to get. TypeScript typings are available in
 (much smaller in comparison) JavaScript library to _ramda_. TypeScript typings
 are included.
 
+## React
+
+*   [Complete React Tutorial (with Redux), YouTube Playlist, by The Net Ninja](https://www.youtube.com/playlist?list=PL4cUxeGkcC9ij8CfkAY2RAGb-tmkNwQHG)
+*   [React Context & Hooks Tutorial, YouTube Playlist, by The Net Ninja](https://www.youtube.com/playlist?list=PL4cUxeGkcC9hNokByJilPg5g9m2APUePI)
+
+## React Native
+
+*   [React Native Tutorial for Beginners, YouTube Playlist, by The Net Ninja](https://www.youtube.com/playlist?list=PL4cUxeGkcC9ixPU-QkScoRBVxtPPzVjrQ)
+
 ## [Serenity/JS](https://serenity-js.org/)
 
 Acceptance-testing-focused framework that supports JavaScript & TypeScript out of the box,
