@@ -100,6 +100,7 @@ even a command-line client available.
 *   [A full remote highly collaborative teams self-design workshop with 80+ people? Yes!, blog post by Mark Uijen de Kleijn](https://co-learning.eu/2020/06/11/a-full-remote-highly-collaborative-teams-self-design-workshop-with-80-people-yes/)
 *   [Common misconception about large scale agility, video by Michael James](https://www.linkedin.com/posts/jurgendesmet_common-misconceptions-about-large-scale-agility-activity-6684324967271694336-W5A9)
 *   [Overcoming the false dichotomy of Specialization vs Generalization with Scrum, article by Bas Vodde](https://less.works/blog/2020/06/16/specialization-vs-generalization-with-scrum.html)
+*   [How Organizations Go Nuts, YouTube video featuring Jurgen de Smet at Agile Prague 2016](https://www.youtube.com/watch?app=desktop&v=QkGyVKl9CGE)
 
 ## Implementations
 
