@@ -1819,6 +1819,7 @@ They both use Python and YAML.
 *   [Scrum Patterns, lecture by James Coplian at Agile Bratislava, on Youtube](https://youtu.be/NSMrGZNdfOg)
 *   [The Main Purpose Behind All The Scrum Elements -- The Development Team, YouTube video from Jurgen de Smet](https://www.youtube.com/watch?v=nWBq4NJdA1A)
 *   [The Main Purpose Behind All The Scrum Elements -- The Product Owner, YouTube video by Jurgen de Smet](https://www.youtube.com/watch?v=gQ4Jlo_1I-U)
+*   [Not Just About Sucking a Little Less, YouTube video featuring James Coplien](https://www.youtube.com/watch?v=2k1Oj-mQKnE)
 
 # Slash TZ (/tz)
 
