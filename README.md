@@ -1319,6 +1319,7 @@ as source for your slides as well as document to be published (HTML).
 *   [Remote Mob Programming, article by Simon Harrer, Jochen Christ and Martin Huber](https://www.remotemobprogramming.org/)
 *   [Mob Programming -- Agile Prague 2019, lecture by Llewellyn Falco](https://www.youtube.com/watch?v=WoW6Gx91iJg)
 *   [Remote Mob Programming, Mob Programming Gathering, recording by Agile New England, on 2020-09-03](https://youtu.be/jWtsw3N4NI8)
+*   [Mob Programming: A Whole Team Approach, YouTube video featuring Woody Zuill at GOTO 2017](https://www.youtube.com/watch?v=SHOVVnRB4h0)
 
 ### mob programming
 
