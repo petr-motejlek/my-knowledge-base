@@ -1815,6 +1815,7 @@ They both use Python and YAML.
     *   Very inspiring. Very motivating. Recommended.
 *   [Scrum Master: Shared or Dedicated, post by Andreea Gheorghiu](https://medium.com/metrosystemsro/scrum-master-shared-or-dedicated-58e239ab00c0)
 *   [Scrum Patterns, lecture by James Coplian at Agile Bratislava, on Youtube](https://youtu.be/NSMrGZNdfOg)
+*   [The Main Purpose Behind All The Scrum Elements -- The Development Team, YouTube video from Jurgen de Smet](https://www.youtube.com/watch?v=nWBq4NJdA1A)
 
 # Slash TZ (/tz)
 
