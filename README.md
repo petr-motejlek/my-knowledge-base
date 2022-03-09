@@ -1305,6 +1305,11 @@ PPTX, PDF, HTML, Markdown, ...).
 *   My ( <ac:link></ac:link>) use case: write one Markdown doc and then use it
 as source for your slides as well as document to be published (HTML).
 
+# oracle
+
+* [oracle/docker-images](https://github.com/oracle/docker-images/tree/main/OracleDatabase/SingleInstance)
+  * official Docker images (or Dockerfile's) from Oracle themselves for not only their database, but also the command line tools
+
 # pair programming
 
 *   [7 Ways to Win with Pair Programming, by Byron Sommardahl](https://www.codementor.io/sommardahl/7-ways-to-win-with-pair-programming-6zkntwkrk)
