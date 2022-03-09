@@ -2332,6 +2332,11 @@ various features, such as automatic user creation in AWS, databases, ...
 
 # windows
 
+## process hacker
+
+* [Process Hacker](https://processhacker.sourceforge.io/)
+  * tries to fill in the gap between the SysInternals' Process Explorer and the classic Task Manager
+
 ## Allow administrator users logged in remotelly to actually be administrators
 
 * [Description of User Account Control and remote restrictions in Windows Vista](https://docs.microsoft.com/en-US/troubleshoot/windows-server/windows-security/user-account-control-and-remote-restriction)
