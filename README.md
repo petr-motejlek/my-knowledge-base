@@ -2350,6 +2350,10 @@ a gazillion of configuration options. And you can still lock the computer and it
 
 [Interested in the "secret" sleep-prevention settings in Windows? Here you go!](https://superuser.com/questions/1153162/how-do-i-stop-windows-10-going-to-sleep-after-locking-with-winl-key#1186786)
 
+# windows subsystem for linux
+
+* [Fixing the annoying bug with IntelliJ reporting numerous errors when using WSL's Git](https://youtrack.jetbrains.com/issue/IDEA-276250#focus=Comments-27-5739890.0-0)
+
 # wireshark
 
 *   [Wireshark: Advanced Tools and Techniques, video course on LinkedIn Learning](https://www.linkedin.com/learning/wireshark-advanced-tools-and-techniques?u=2141129)
