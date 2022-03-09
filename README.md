@@ -719,6 +719,7 @@ Istio makes it easy to create a network of deployed services with load balancing
 *   [JavaScript: Understanding the Weird Parts, video course by Tony Alicea](https://www.udemy.com/course/understand-javascript/)
     *   An entire course on Udemy.
 *   [Async JS Crash Course - Callbacks, Promises, Async, Await; tutorial by Traversy Media on YouTube](https://www.youtube.com/watch?v=PoRJizFvM7s)
+*   [JavaScript Symbols: But Why?, article by Thomas Hunter II](https://medium.com/intrinsic-blog/javascript-symbols-but-why-6b02768f4a5c)
 
 ## Testing
 
