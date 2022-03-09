@@ -2141,6 +2141,7 @@ spun up using a Docker image.
 *   [Advanced TypeScript Types with Examples, article by Elena Sufieva](https://levelup.gitconnected.com/advanced-typescript-types-with-examples-1d144e4eda9e)
 *   [Type-Safe Value Objects in TypeScript, article by Hannes Petri, at Medium](https://medium.com/@hannespetri/type-safe-value-objects-in-typescript-d1b119c4f5cd)
 *   [Webpack & TypeScript Setup, tutorial by The Net Ninja, on Youtube](https://www.youtube.com/playlist?list=PL4cUxeGkcC9hOkGbwzgYFmaxB0WiduYJC)
+*   [Using TypeScript's singleton types in practice, article by Tar Viturawong](https://medium.com/@tar.viturawong/using-typescripts-singleton-types-in-practice-f8b20b1ec3a6)
 
 ## gulpfile.js
 
