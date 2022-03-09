@@ -2021,6 +2021,8 @@ connections, ..._ and you can ingest the metrics into
         interfacing with APIs directly (i.e. using boto3 or similar tools) and
         want one more level of abstraction.
 *   Example/Tutorial: [A complete AWS environment with Terraform, by pippopeppe83](https://www2.linuxacademy.com/howtoguides/13922-a-complete-aws-environment-with-terraform/)
+*   [Terraform Credentials from the Environment, project on GitHub](https://github.com/apparentlymart/terraform-credentials-env)
+    * very useful for switching between different Terraform Cloud credentials using environment variables
 
 # testing
 
