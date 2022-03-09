@@ -80,6 +80,7 @@ even a command-line client available.
 *   [Stop Managing Dependencies, article by Jurgen de Smet](https://co-learning.be/2016/01/19/stop-managing-dependencies/)
 *   [Agility != Speed, lecture by Kevlin Henney on YouTube](https://www.youtube.com/watch?v=kmFcNyZrUNM&feature=youtu.be)
 *   [Self-Organizing Agile Teams Are Not Put Together Randomly, post by Mike Cohn](https://www.mountaingoatsoftware.com/blog/self-organizing-teams-are-not-put-together-randomly)
+*   [How Scrum Patterns help you become a better Scrum Master, post by Karel Smutný](https://www.linkedin.com/pulse/how-scrum-patterns-help-you-become-better-master-karel-smutn%25C3%25BD-1e/?trackingId=RHSOMbpGT1qW2my2murYDQ%3D%3D)
 
 ## HR
 
