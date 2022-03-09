@@ -2332,6 +2332,10 @@ various features, such as automatic user creation in AWS, databases, ...
 
 # windows
 
+## Allow administrator users logged in remotelly to actually be administrators
+
+* [Description of User Account Control and remote restrictions in Windows Vista](https://docs.microsoft.com/en-US/troubleshoot/windows-server/windows-security/user-account-control-and-remote-restriction)
+
 ## How to prevent Windows going to sleep?
 
 I personally tried a couple different solutions, starting with the obvious settings
