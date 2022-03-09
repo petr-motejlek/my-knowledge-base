@@ -325,6 +325,7 @@ is a Docker Hub image available also, for ease of use.
     * Very good summary of why you need trunk-based development instead of \*-branches.  
 *   [Insecure Transit -- Microservice Security; lecture by Sam Newman, at NDC London 2019, on YouTube](https://www.youtube.com/watch?v=MdiUlmDwqEw)
 *   [Goodbye, Object Oriented Programming; blog post by Charles Scalfani](https://cscalfani.medium.com/goodbye-object-oriented-programming-a59cda4c0e53)
+*   [Lean Code, talk by Kevlin Henney, at DevTernity 2019](https://www.youtube.com/watch?v=-nWhH-4wWBU)
 
 ## coding challenges
 
