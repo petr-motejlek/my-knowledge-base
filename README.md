@@ -1217,6 +1217,7 @@ a Kubernetes installation. Again, it is configurable upfront.
       and the management need to work together. I have seen it fail too many times when management were the only ones working on
       it, failing (because they were forcing the teams into bad habbits). I have also seen it being done only be the teams,
       failing (because management did not care and did not allow changes to happen based on those metrics' results).
+*   [Learn to Say "No" and End Your Multitasking!, talk by Johanna Rothman, at Agile Prague Conference 2016](https://www.youtube.com/watch?v=IKz0770XpwY)
 
 # minio
 
