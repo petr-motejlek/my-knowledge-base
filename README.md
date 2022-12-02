@@ -133,7 +133,7 @@ even a command-line client available.
 
 # ananas analytics
 
-[Ananas Analytics](https://ananasanalytics.com) is a platform that can be used
+[Ananas Analytics](https://github.com/ananas-analytics/ananas-desktop) is a platform that can be used
 for quick data visualization using either files or cloud-based database engines
 as its data store. For scalability, the execution can be ran inside e.g. Apache
 Spark. But by default, the execution itself always takes place on the desktop.
