@@ -725,6 +725,7 @@ Istio makes it easy to create a network of deployed services with load balancing
 *   [Async JS Crash Course - Callbacks, Promises, Async, Await; tutorial by Traversy Media on YouTube](https://www.youtube.com/watch?v=PoRJizFvM7s)
 *   [JavaScript Symbols: But Why?, article by Thomas Hunter II](https://medium.com/intrinsic-blog/javascript-symbols-but-why-6b02768f4a5c)
 *   [Dynamic Promise Chaining, article by Rafayel Arakelyan](https://betterprogramming.pub/dynamic-promise-chaining-af9c5cb87f2e)
+*   [11+ Features of JavaScript You've Probably Never Used, post by Chidume Nnamdi](https://blog.bitsrc.io/features-of-javascript-you-probably-never-used-4c117ba3f025)
 
 ## Testing
 
