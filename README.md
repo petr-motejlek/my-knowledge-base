@@ -1235,6 +1235,10 @@ a Kubernetes installation. Again, it is configurable upfront.
       it, failing (because they were forcing the teams into bad habbits). I have also seen it being done only be the teams,
       failing (because management did not care and did not allow changes to happen based on those metrics' results).
 *   [Learn to Say "No" and End Your Multitasking!, talk by Johanna Rothman, at Agile Prague Conference 2016](https://www.youtube.com/watch?v=IKz0770XpwY)
+* [The Mother of All Demos, demo by Douglas Engelbert, in 1968](https://www.youtube.com/watch?v=2nm47PFALc8)
+  * Maybe this does not technically belong here, because it is a category of its own, but it is mind-boggling
+    to see how many pieces of computer systems we take for granted now are actually quite old (the demo being
+    from 1968).
 
 # minio
 
