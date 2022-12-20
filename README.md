@@ -341,6 +341,9 @@ is a Docker Hub image available also, for ease of use.
 * [The Many Meanings of Event-Driven Architecture, talk by Martin Fowler, at GOTO 2017](https://www.youtube.com/watch?v=STKCRSUsyP0)
 * [The Future of Software Engineering, talk by Mary Poppendieck, at GOTO 2016](https://www.youtube.com/watch?v=6K4ljFZWgW8)
 * [Using Sagas to Maintain Data Consistency in a Microservice Architecture, talk by Chris Richardson, at Devoxx 2017](https://www.youtube.com/watch?v=YPbGW3Fnmbc)
+* [Design Microservice Architectures the Right Way, talk by Michael Bryzek, InfoQ 2018](https://www.youtube.com/watch?v=j6ow-UemzBc) 
+  * At many places during the talk I feel like Michael might be pushing his hiring PR a bit too much. However, msot of
+    the talk is actually a somewhat good inspiration for folks.
 
 ## coding challenges
 
