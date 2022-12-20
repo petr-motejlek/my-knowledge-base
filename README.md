@@ -1602,6 +1602,7 @@ the Python programming language.
 * [Micro Frontends: Composing a Greater Whole; talk by Yoav Yanovski; at Vue.js Amsterdam 2020](https://www.youtube.com/watch?v=VoeGjJ57XgI)
 * [Avoiding Microservice Megadisasters; talk by Jimmy Bogard; at NDC 2017](https://www.youtube.com/watch?v=gfh-VCTwMw8)
 * [Microservices and Frontends; talk by Erik Dörnenburg; at ThoughtWorks Talks Tech 2019](https://www.youtube.com/watch?v=xIrLCvtQMsA)
+* [The Next Paradigm Shift in Programming; talk by Richard Feldman](https://www.youtube.com/watch?v=6YbK8o9rZfI)
 
 # Quotes (That Come In Handy)
 
