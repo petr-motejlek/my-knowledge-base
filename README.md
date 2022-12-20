@@ -1847,6 +1847,8 @@ They both use Python and YAML.
 *   [The Main Purpose Behind All The Scrum Elements -- The Development Team, YouTube video from Jurgen de Smet](https://www.youtube.com/watch?v=nWBq4NJdA1A)
 *   [The Main Purpose Behind All The Scrum Elements -- The Product Owner, YouTube video by Jurgen de Smet](https://www.youtube.com/watch?v=gQ4Jlo_1I-U)
 *   [Not Just About Sucking a Little Less, YouTube video featuring James Coplien](https://www.youtube.com/watch?v=2k1Oj-mQKnE)
+*   [Scrum is Bad, talk by Jonathan Crossland](https://www.youtube.com/watch?v=eTjVA4HcDWA)
+    * QUite an interesting take on the whole scrum methodology, from the other side. Recommend watching more videos of Jonathan's.
 
 # Slash TZ (/tz)
 
