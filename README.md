@@ -970,7 +970,7 @@ npm install --save-dev eslint-plugin-prettier-vue eslint-plugin-vue eslint-confi
       "eslint:recommended",
       "plugin:@typescript-eslint/recommended",
       "prettier/@typescript-eslint",
-      "plugin:prettier/recommended"
+      "plugin:prettier/recommended",
       "plugin:vue/recommended",
       "plugin:prettier-vue/recommended"
     ],
