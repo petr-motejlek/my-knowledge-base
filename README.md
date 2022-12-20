@@ -738,6 +738,7 @@ Istio makes it easy to create a network of deployed services with load balancing
 *   [JavaScript Symbols: But Why?, article by Thomas Hunter II](https://medium.com/intrinsic-blog/javascript-symbols-but-why-6b02768f4a5c)
 *   [Dynamic Promise Chaining, article by Rafayel Arakelyan](https://betterprogramming.pub/dynamic-promise-chaining-af9c5cb87f2e)
 *   [11+ Features of JavaScript You've Probably Never Used, post by Chidume Nnamdi](https://blog.bitsrc.io/features-of-javascript-you-probably-never-used-4c117ba3f025)
+* [Quokka | The JavaScript Scratchpad, introductory video by Brad Traversy](https://www.youtube.com/watch?v=f_sEWa5hA0Q)
 
 ## Testing
 
