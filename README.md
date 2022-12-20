@@ -1585,6 +1585,9 @@ the Python programming language.
     OO; isolated unit testing with and without test doubles; and concurrency,
     to name some bar.
 *   [Why Isn't Functional Programming the Norm?, lecture by Richard Feldman at Clojure 2019](https://www.youtube.com/watch?v=QyJZzq0v7Z4)
+* [The Web That Never Was, talk by Dylan Beattie, at NDC 2018](https://www.youtube.com/watch?v=8JOD1AQGqEg)
+  * This is a joke. Meant to prognose what potentially could have happened... Totally worth
+    watching.
 
 # Quotes (That Come In Handy)
 
