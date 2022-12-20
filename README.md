@@ -491,6 +491,7 @@ working on the same project across various editors and IDEs."
 ## Elastic Search
 
 * [Elastic Search Tutorial for Beginners, video by Udemy feat. Frank Kane, on YouTube](https://www.youtube.com/watch?v=C3tlMqaNSaI&feature=youtu.be)
+* [Elasticsearch Do's, Don'ts and Pro-Tips, talk by Itamar Syn Hershko, at NDC 2017](https://www.youtube.com/watch?v=c9O5_a50aOQ)
 
 ## File Beat
 
