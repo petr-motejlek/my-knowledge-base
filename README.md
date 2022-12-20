@@ -643,6 +643,7 @@ for monolithic ones too.
 *   [JS GraphQL -- IntelliJ IDEA (and friends) Plugin](https://plugins.jetbrains.com/plugin/8097-js-graphql)
 *   [Ariadne GraphQL](https://ariadnegraphql.org/) – Python schema-first
     server-side GraphQL server implementation
+*   [Headless CMS & GraphQL API with KeystoneJS, tutorial by Brad Traversy](https://www.youtube.com/watch?v=3cH1BXJbfa4)
 
 # groovy
 
