@@ -1889,6 +1889,24 @@ a command-line-based utility that establishes two bidirectional byte streams
 and transfers data between them. Because the streams can be constructed from
 a large set of different types of data sinks and sources (incl. SSL).
 
+# [sococo](https://www.sococo.com/)
+
+Sococo is a company/product that attempts to bridge the gap between being just
+a unified communications tool and a kinda virtual reality for remote work
+environments (with a grain of salt).
+
+Basically, the selling point is that with you team/organization, you can create
+a layout/map of your workplace (including seats, conference rooms, kitchens, ...)
+and have your colleagues kinda roam around that workplace and interact with others,
+should they feel like it (it's also possible to sit in a phone booth for just one
+person).
+
+I find this interesting, since using simple text/emoji statuses in a unified messaging
+app is definitely not enough -- I never know when others are engaged in some kind of discussion,
+but simply just type (as opposed to being in some kind of room/area that anyone can join), or
+whether they are truly available (their status might show available, even though they are in
+a room/area and are actively engaged with people -- sococo should make it obvious where they are).
+
 # splunk
 
 [Splunk](https://www.splunk.com/en_us/software/splunk-enterprise.html) is
