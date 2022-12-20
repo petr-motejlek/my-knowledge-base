@@ -335,6 +335,7 @@ is a Docker Hub image available also, for ease of use.
 *   [Lean Code, talk by Kevlin Henney, at DevTernity 2019](https://www.youtube.com/watch?v=-nWhH-4wWBU)
 *   [Refactoring to Immutability, talk by Kevlin Henney, at NDC Conference 2018](https://www.youtube.com/watch?v=APUCMSPiNh4)
 *   [Small is Beautiful, talk by Kevlin Henney, at GOTO 2016](https://www.youtube.com/watch?v=B3b4tremI5o)
+*   [Software is Details, talk by Kevlin Henney, at GOTO 2020](https://www.youtube.com/watch?v=kX0prJklhUE)
 
 ## coding challenges
 
