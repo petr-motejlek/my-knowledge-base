@@ -346,6 +346,7 @@ is a Docker Hub image available also, for ease of use.
 * [Design Microservice Architectures the Right Way, talk by Michael Bryzek, InfoQ 2018](https://www.youtube.com/watch?v=j6ow-UemzBc) 
   * At many places during the talk I feel like Michael might be pushing his hiring PR a bit too much. However, msot of
     the talk is actually a somewhat good inspiration for folks.
+* [The Single Responsibility Principle; talk by Uncle Bob Martin; at NDC 2014](https://www.youtube.com/watch?v=Gt0M_OHKhQE)
 
 ## coding challenges
 
