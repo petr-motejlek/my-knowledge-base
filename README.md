@@ -410,6 +410,7 @@ discovery. It has since become the standard service inside any Kubernetes cluste
 
 *   [DevOps Foundations: Infrastructure as Code, video course on LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code?u=2141129)
 *   [How to Explain DevOps in Plain English, article by Carla Rudder](https://enterprisersproject.com/article/2019/8/devops-explained-plain-english)
+* [Implementing SRE practices: SLI/SLO deep dive; talk by David Blank Edelman; at DevOpsDays Tel Aviv 2018](https://www.youtube.com/watch?v=dplGoewF4DA)
 
 # [DirSyncPro](https://www.dirsyncpro.org/)
 
