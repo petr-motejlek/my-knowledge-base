@@ -215,6 +215,8 @@ with containers and/or virtualization.
 *   [AWS Certified Solutions Architect - Professional, video course on Linux Academy](https://linuxacademy.com/cp/modules/view/id/245)
     *   "Very useful to get to know the offerings overall. The
         quiz/certification is a bit questionable, though :).
+* [Designing Fault Tolerant Applications, talk by Jeff Barr, Atila Narin and Max Ramsay](https://www.youtube.com/watch?v=9BrmHoyFJUY)
+  * While being quite dated, it still holds some valuable insights even into the current AWS inner-workings. 
 
 # [Apache Storm](https://storm.apache.org/index.html)
 
