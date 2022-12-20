@@ -1931,6 +1931,10 @@ to be doing anything too different or radical enough, to really warrant a switch
 
 *   [Svelte for Beginners, tutorial by The Net Ninja, on Youtube](https://www.youtube.com/playlist?list=PL4cUxeGkcC9hlbrVO_2QFVqVPhlZmz7tO)
 
+# systemd
+
+* [The Tragedy of Systemd, talk by Benno Rice, at linux.conf.au 2019](https://www.youtube.com/watch?v=o_AIw9bGogo)
+
 # team building (games)
 
 ## Human Knot
