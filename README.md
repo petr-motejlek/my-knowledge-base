@@ -338,6 +338,7 @@ is a Docker Hub image available also, for ease of use.
 *   [Refactoring to Immutability, talk by Kevlin Henney, at NDC Conference 2018](https://www.youtube.com/watch?v=APUCMSPiNh4)
 *   [Small is Beautiful, talk by Kevlin Henney, at GOTO 2016](https://www.youtube.com/watch?v=B3b4tremI5o)
 *   [Software is Details, talk by Kevlin Henney, at GOTO 2020](https://www.youtube.com/watch?v=kX0prJklhUE)
+* [The Many Meanings of Event-Driven Architecture, talk by Martin Fowler, at GOTO 2017](https://www.youtube.com/watch?v=STKCRSUsyP0)
 
 ## coding challenges
 
