@@ -1588,6 +1588,10 @@ the Python programming language.
 * [The Web That Never Was, talk by Dylan Beattie, at NDC 2018](https://www.youtube.com/watch?v=8JOD1AQGqEg)
   * This is a joke. Meant to prognose what potentially could have happened... Totally worth
     watching.
+* [Rethinking Time in Distributed Systems, lecture by Paul Borill at Stanford in 2010](https://www.youtube.com/watch?v=VKkGqNRlUJM)
+  * Although quite old, I really find it interesting that it still provides some interesting
+    insights into our current world. I even find myself thinking that Paul talked about
+    event-driven architecture even back then.
 
 # Quotes (That Come In Handy)
 
