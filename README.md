@@ -340,6 +340,7 @@ is a Docker Hub image available also, for ease of use.
 *   [Software is Details, talk by Kevlin Henney, at GOTO 2020](https://www.youtube.com/watch?v=kX0prJklhUE)
 * [The Many Meanings of Event-Driven Architecture, talk by Martin Fowler, at GOTO 2017](https://www.youtube.com/watch?v=STKCRSUsyP0)
 * [The Future of Software Engineering, talk by Mary Poppendieck, at GOTO 2016](https://www.youtube.com/watch?v=6K4ljFZWgW8)
+* [Using Sagas to Maintain Data Consistency in a Microservice Architecture, talk by Chris Richardson, at Devoxx 2017](https://www.youtube.com/watch?v=YPbGW3Fnmbc)
 
 ## coding challenges
 
