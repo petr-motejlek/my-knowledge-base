@@ -347,6 +347,7 @@ is a Docker Hub image available also, for ease of use.
   * At many places during the talk I feel like Michael might be pushing his hiring PR a bit too much. However, msot of
     the talk is actually a somewhat good inspiration for folks.
 * [The Single Responsibility Principle; talk by Uncle Bob Martin; at NDC 2014](https://www.youtube.com/watch?v=Gt0M_OHKhQE)
+* [The SOLID Design Principles Deconstructed; talk by Kevlin Henney; at YOW! 2013](https://www.youtube.com/watch?v=tMW08JkFrBA)
 
 ## coding challenges
 
