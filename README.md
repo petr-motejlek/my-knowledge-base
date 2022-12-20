@@ -1596,6 +1596,7 @@ the Python programming language.
     insights into our current world. I even find myself thinking that Paul talked about
     event-driven architecture even back then.
 * [Game of Life Kata in Clojure; by Michael Whatcott](https://www.youtube.com/watch?v=15WJqtGbaH8)
+* [The Frontend Taboo: a Story of Full Stack Microservices; talk by Luis Mineiro and Moritz Grauel; at GOTO 2016](https://www.youtube.com/watch?v=vCzTK4XPfX8)
 
 # Quotes (That Come In Handy)
 
