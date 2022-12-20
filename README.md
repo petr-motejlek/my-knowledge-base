@@ -1079,6 +1079,7 @@ more theory-oriented, course
      ](https://linuxacademy.com/cp/modules/view/id/354?redirect_uri=https://app.linuxacademy.com/search?type=Course&categories=Linux)
 *   [Kubernetes pod autoscaling for beginners, YouTube video, by That DevOps Guy](https://youtube.com/watch?v=FfDI08sgrYY&feature=share)
 *   [Understanding CPU & Memory with the Kubernetes Vertical Pod Autoscaler, YouTube video, by That DevOps Guy](https://youtube.com/watch?v=jcHQ5SKKTLM&feature=share)
+*   [Configure Liveness, Readiness and Startup Probes, manual page for Kubernetes](https://kubernetes.io/docs/tasks/configure-pod-container/configure-liveness-readiness-startup-probes/)
 
 ## [helm](https://helm.sh/docs/chart_template_guide/getting_started/)
 
