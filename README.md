@@ -1597,6 +1597,7 @@ the Python programming language.
     event-driven architecture even back then.
 * [Game of Life Kata in Clojure; by Michael Whatcott](https://www.youtube.com/watch?v=15WJqtGbaH8)
 * [The Frontend Taboo: a Story of Full Stack Microservices; talk by Luis Mineiro and Moritz Grauel; at GOTO 2016](https://www.youtube.com/watch?v=vCzTK4XPfX8)
+* [Micro-frontends: A microservice approach to the modern web; talk by Ivan Jovanovic; at NearForm 2020](https://www.youtube.com/watch?v=ftBc8w-lwmY)
 
 # Quotes (That Come In Handy)
 
