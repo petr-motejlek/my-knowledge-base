@@ -1595,6 +1595,7 @@ the Python programming language.
   * Although quite old, I really find it interesting that it still provides some interesting
     insights into our current world. I even find myself thinking that Paul talked about
     event-driven architecture even back then.
+* [Game of Life Kata in Clojure; by Michael Whatcott](https://www.youtube.com/watch?v=15WJqtGbaH8)
 
 # Quotes (That Come In Handy)
 
