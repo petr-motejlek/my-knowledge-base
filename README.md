@@ -242,6 +242,13 @@ UNetBootIn or Rufus. Can be installed via `brew cask install balenaetcher`.
     levels, ...).
 *   [Bash bang commands: A must-know trick for the Linux command line, article by Keerthi Chinthaguntla](https://www.redhat.com/sysadmin/bash-bang-commands)
 
+# bashible
+
+Inspired by Ansible, Bashible aims to be a declaratorive automation tool,
+but instead of Python, it utilizes Bash.
+
+* [Bashible: Automatizační jazyk inspirovaný Ansiblem, post in Czech by Jan Molič on Root.cz](https://www.root.cz/clanky/bashible-automatizacni-jazyk-inspirovany-ansiblem/)
+
 # bitbar
 
 While similar tools such as [conky](https://github.com/brndnmtthws/conky) or
